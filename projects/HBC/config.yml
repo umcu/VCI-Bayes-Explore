@@ -1,0 +1,5 @@
+risk_region: Low
+raw_dir: /Volumes/GROUPS/HER/Onderzoek/Neurologie/VCI onderzoek/Malin Overmars/01_HARTBREIN/04_BAYESIAN_OUTPUT/data
+output_dir: /Volumes/GROUPS/HER/Onderzoek/Neurologie/VCI onderzoek/Malin Overmars/01_HARTBREIN/04_BAYESIAN_OUTPUT/output
+codebook_path: /Volumes/GROUPS/HER/Onderzoek/Neurologie/VCI onderzoek/Malin Overmars/01_HARTBREIN/04_BAYESIAN_OUTPUT/data/HBC_CODEBOOK_LABELS.xlsx
+
